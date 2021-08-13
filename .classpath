@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Aula09e10"/>
+	<classpathentry kind="src" path="aula11"/>
+	<classpathentry kind="src" path="aula12"/>
+	<classpathentry kind="src" path="aula13"/>
+	<classpathentry kind="src" path="aula14"/>
+	<classpathentry kind="src" path="aula15"/>
+	<classpathentry kind="src" path="aula16"/>
+	<classpathentry kind="src" path="aula17"/>
+	<classpathentry kind="src" path="aula18"/>
+	<classpathentry kind="src" path="aula19"/>
+	<classpathentry kind="src" path="aula20"/>
+	<classpathentry kind="src" path="aula21"/>
+	<classpathentry kind="src" path="Grafo"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
