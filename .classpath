@@ -22,5 +22,6 @@
 	<classpathentry kind="src" path="Merge Short"/>
 	<classpathentry kind="src" path="CountShort"/>
 	<classpathentry kind="src" path="RadixSort"/>
+	<classpathentry kind="src" path="Bucketsort"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
