@@ -19,5 +19,8 @@
 	<classpathentry kind="src" path="aula20"/>
 	<classpathentry kind="src" path="aula21"/>
 	<classpathentry kind="src" path="Grafo"/>
+	<classpathentry kind="src" path="Merge Short"/>
+	<classpathentry kind="src" path="CountShort"/>
+	<classpathentry kind="src" path="RadixSort"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
